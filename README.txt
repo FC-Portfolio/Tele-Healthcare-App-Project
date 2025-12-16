@@ -10,4 +10,8 @@ This is a simple protype of a Tele-Healthcare App that I made for my final capst
 - Vs Code
 
 Mockup:  https://www.figma.com/proto/qYUVmwQ9WItFmeD6Lehp9t/Know-Your-Health?page-id=0%3A1&node-id=23-46&node-type=canvas&viewport=-428%2C263%2C0.65&t=5RiCoZrfAVH17kII-1&scaling=scale-down&content-scaling=fixed
-Powerpoint: 
+
+
+
+
+Note: These are forked over from my personal github.
